@@ -1,11 +1,3 @@
-# 🗃️ Data Analyst Projects - Arshdeep Randhawa
-
-This portfolio showcases **Data Analyst projects** centered on transforming raw data into actionable insights. These projects involve querying structured data, uncovering trends, building reports, and supporting business decisions through data exploration and performance measurement.
-
-Each project has its own folder with a dedicated **README** for setup and usage instructions.  
-
-## Explore My Projects by Category</h2>
-
 <table align="center">
   <tr>
 	<td align="center">
@@ -19,17 +11,28 @@ Each project has its own folder with a dedicated **README** for setup and usage 
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/arshrandhawa/DataAnalystPortfolio/blob/main/README.md">
+        <img src="https://img.shields.io/badge/-Data_Analyst-green?style=for-the-badge&logo=sqlite&scale=4" alt="Data Analyst">
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/arshrandhawa/DataEngineerPortfolio/blob/main/README.md">
         <img src="https://img.shields.io/badge/-Data_Engineering-orange?style=for-the-badge&logo=docker&scale=4" alt="Data Engineering">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/arshrandhawa/DataScientistPortfolio/blob/main/README.md">
+      <a href="https://github.com/arshrandhawa/DataSciencePortfolio/blob/main/README.md">
         <img src="https://img.shields.io/badge/-Data_Science-purple?style=for-the-badge&logo=scikit-learn&scale=4" alt="Data Science">
       </a>
     </td>
   </tr>
 </table>
+
+# 🗃️ Data Analyst Projects - Arshdeep Randhawa
+
+This portfolio showcases **Data Analyst projects** centered on transforming raw data into actionable insights. These projects involve querying structured data, uncovering trends, building reports, and supporting business decisions through data exploration and performance measurement.
+
+Each project has its own folder with a dedicated **README** for setup and usage instructions.  
 
 ## 📌 Featured Project(s)  
 
