@@ -2,6 +2,8 @@
 
 This portfolio showcases **Data Analyst projects** centered on transforming raw data into actionable insights. These projects involve querying structured data, uncovering trends, building reports, and supporting business decisions through data exploration and performance measurement.
 
+Each project has its own folder with a dedicated **README** for setup and usage instructions.  
+
 ## Explore My Projects by Category</h2>
 
 <table align="center">
@@ -37,7 +39,10 @@ This portfolio showcases **Data Analyst projects** centered on transforming raw 
 - **Technologies Used**: SQL (SQL Server)  
 - [View Project](https://github.com/arshrandhawa/SalesPerformanceAnalysis/tree/main)  
 
+## 📬 Connect With Me
 
-Each project has its own folder with a dedicated **README** for setup and usage instructions.  
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/arshrandhawa11/)
+- **Tableau Public**: [My Tableau Public Profile](https://public.tableau.com/app/profile/arshdeep.randhawa6351/vizzes)
+- **Email**: [arshdip.randhawa@gmail.com](mailto:arshdip.randhawa@gmail.com)
 
-🚀 **More SQL projects coming soon!**  
+Thank you for visiting my portfolio! Feel free to reach out for collaborations or opportunities.
